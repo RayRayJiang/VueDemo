@@ -1,0 +1,1080 @@
+{ 
+    "_id" : ObjectId("5d3d1f7509204afcfd3cfe5a"), 
+    "goodsName" : "雪域牛乳芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list1.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 23.0, 
+    "goodsTitle" : "经典升级 口碑新贵", 
+    "goodsTag" : "金奖鲜乳浓醇升级 澳洲进口", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d200909204afcfd3cfe5b"), 
+    "goodsName" : "环游世界蛋糕", 
+    "goodsImg" : "/images/list2.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 24.0, 
+    "goodsTitle" : "五星好评 9种口味一次过瘾", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d215809204afcfd3cfe5c"), 
+    "goodsName" : "闲蛋皇蛋糕", 
+    "goodsImg" : "/images/list3.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 25.0, 
+    "goodsTitle" : "热度持续飙升 网红咸蛋黄蛋糕", 
+    "goodsTag" : "aha专享限时加大", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d228309204afcfd3cfe5d"), 
+    "goodsName" : "草莓拿破仑蛋糕", 
+    "goodsImg" : "/images/list4.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 26.0, 
+    "goodsTitle" : "法式经典  层层酥脆", 
+    "goodsTag" : "法式经典  层层酥脆", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d2dd909204afcfd3cfe5e"), 
+    "goodsName" : "数字蛋糕", 
+    "goodsImg" : "/images/list8.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 35.0, 
+    "goodsTitle" : "人见人爱Ins网红 明星同款", 
+    "goodsTag" : "第2件半价 第3件免单", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d43d609204afcfd3cfe5f"), 
+    "goodsName" : "雪域牛乳芝士蛋糕", 
+    "goodsImg" : "/images/list7.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 37.0, 
+    "goodsTitle" : "经典升级 口碑新贵", 
+    "goodsTag" : "金奖鲜乳浓醇升级 澳洲进口", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d44ab09204afcfd3cfe60"), 
+    "goodsName" : "杨枝甘露蛋糕", 
+    "goodsImg" : "/images/list5.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 37.0, 
+    "goodsTitle" : "港式甜品诱惑 夏季明星款", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d458709204afcfd3cfe61"), 
+    "goodsName" : "草莓千层蛋糕", 
+    "goodsImg" : "/images/list6.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 29.0, 
+    "goodsTitle" : "柔韧饼皮与奶油层层交叠", 
+    "goodsTag" : "千层控必入爆款", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d5d4009204afcfd3cfe62"), 
+    "goodsName" : "喵叽叽云顶小花曲奇礼盒·宠溺双拼（原味+咖啡味）", 
+    "goodsImg" : "/images/aftea1.jpg", 
+    "goodsPrice" : 158.0, 
+    "goodsNum" : 29.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "买一赠一 aha会员专享", 
+    "goodsType" : "2", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d5d6709204afcfd3cfe63"), 
+    "goodsName" : "喵叽叽云顶小花曲奇礼盒·元气双拼（原味+巧克力味）", 
+    "goodsImg" : "/images/aftea2.jpg", 
+    "goodsPrice" : 158.0, 
+    "goodsNum" : 28.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "买一赠一 aha会员专享", 
+    "goodsType" : "2", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d5d8409204afcfd3cfe64"), 
+    "goodsName" : "喵叽叽云顶小花曲奇礼盒（原味）", 
+    "goodsImg" : "/images/aftea3.jpg", 
+    "goodsPrice" : 158.0, 
+    "goodsNum" : 27.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "买一赠一 aha会员专享", 
+    "goodsType" : "2", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3d5da509204afcfd3cfe65"), 
+    "goodsName" : "喵叽叽云顶小花曲奇礼盒（巧克力味）", 
+    "goodsImg" : "/images/aftea4.jpg", 
+    "goodsPrice" : 158.0, 
+    "goodsNum" : 26.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "买一赠一 aha会员专享", 
+    "goodsType" : "2", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3da81b09204afcfd3cfe66"), 
+    "goodsName" : "撩定你蛋糕", 
+    "goodsImg" : "/images/list9.jpg", 
+    "goodsPrice" : 336.0, 
+    "goodsNum" : 35.0, 
+    "goodsTitle" : "Hey别看啦 撩的就是你", 
+    "goodsTag" : "七夕专享限时立减", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3da81b09204afcfd3cfe67"), 
+    "goodsName" : "彩虹雪域芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list10.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 37.0, 
+    "goodsTitle" : "雪域真爱粉 喜欢挑这款", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3da92409204afcfd3cfe68"), 
+    "goodsName" : "寿喜桃蛋糕", 
+    "goodsImg" : "/images/list11.jpg", 
+    "goodsPrice" : 338.0, 
+    "goodsNum" : 39.0, 
+    "goodsTitle" : "拉起福寿喜气贺词", 
+    "goodsTag" : "生辰之喜 贺寿佳礼", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3da92409204afcfd3cfe69"), 
+    "goodsName" : "巧克力松露蛋糕", 
+    "goodsImg" : "/images/list12.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 40.0, 
+    "goodsTitle" : "巧克力爱好者的福音", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daa1d09204afcfd3cfe6a"), 
+    "goodsName" : "雪域芒芒芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list13.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 39.0, 
+    "goodsTitle" : "酸甜诱人 夏日正当红", 
+    "goodsTag" : "芒果季时令甄享", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daa1d09204afcfd3cfe6b"), 
+    "goodsName" : "美刀刀蛋糕", 
+    "goodsImg" : "/images/list14.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 44.0, 
+    "goodsTitle" : "人气咖 暴富暴美大赢家", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daad909204afcfd3cfe6c"), 
+    "goodsName" : "雪域曲奇芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list15.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 25.0, 
+    "goodsTitle" : "甜品新风尚 大家都抢看", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daad909204afcfd3cfe6d"), 
+    "goodsName" : "牛奶星球蛋糕", 
+    "goodsImg" : "/images/list16.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "成长星能量 让孩子吃出好奇心", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dac0f09204afcfd3cfe6e"), 
+    "goodsName" : "雪域拼图芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list17.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 29.0, 
+    "goodsTitle" : "甜品新风尚 大家都抢看", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "雪域口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dac0f09204afcfd3cfe6f"), 
+    "goodsName" : "双莓提拉米苏乐脆蛋糕", 
+    "goodsImg" : "/images/list18.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "成长星能量 让孩子吃出好奇心", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dac0f09204afcfd3cfe70"), 
+    "goodsName" : "雪域蓝莓芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list19.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dac0f09204afcfd3cfe71"), 
+    "goodsName" : "芋见伯爵蛋糕", 
+    "goodsImg" : "/images/list20.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 44.0, 
+    "goodsTitle" : "芋泥+伯爵茶神仙CP", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dacf909204afcfd3cfe72"), 
+    "goodsName" : "王子蛋糕", 
+    "goodsImg" : "/images/list21.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 56.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dacf909204afcfd3cfe73"), 
+    "goodsName" : "公主蛋糕", 
+    "goodsImg" : "/images/list22.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dacf909204afcfd3cfe74"), 
+    "goodsName" : "男神·冰淇淋蛋糕", 
+    "goodsImg" : "/images/list23.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dacf909204afcfd3cfe75"), 
+    "goodsName" : "芒果千层拿破仑蛋糕", 
+    "goodsImg" : "/images/list24.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dadb609204afcfd3cfe76"), 
+    "goodsName" : "芒果芒果蛋糕", 
+    "goodsImg" : "/images/list25.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 56.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dadb609204afcfd3cfe77"), 
+    "goodsName" : "提拉米苏·写意蛋糕", 
+    "goodsImg" : "/images/list26.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dadb609204afcfd3cfe78"), 
+    "goodsName" : "诺心花园·夏至蛋糕", 
+    "goodsImg" : "/images/list27.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dadb609204afcfd3cfe79"), 
+    "goodsName" : "雪域牛乳芝士蛋糕·特浓花样", 
+    "goodsImg" : "/images/list28.jpg", 
+    "goodsPrice" : 336.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dae4209204afcfd3cfe7a"), 
+    "goodsName" : "雪域莓莓芝士蛋糕·特浓", 
+    "goodsImg" : "/images/list29.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 56.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dae4209204afcfd3cfe7b"), 
+    "goodsName" : "雪域粉爱拍档蛋糕·特浓", 
+    "goodsImg" : "/images/list30.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dae4209204afcfd3cfe7c"), 
+    "goodsName" : "雪域莓飞色舞蛋糕·特浓", 
+    "goodsImg" : "/images/list31.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dae4209204afcfd3cfe7d"), 
+    "goodsName" : "蓝莓拿破仑蛋糕", 
+    "goodsImg" : "/images/list32.jpg", 
+    "goodsPrice" : 336.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daecc09204afcfd3cfe7e"), 
+    "goodsName" : "雪域奇趣天成蛋糕·特浓", 
+    "goodsImg" : "/images/list33.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 56.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daecc09204afcfd3cfe7f"), 
+    "goodsName" : "真爱“粉钻”蛋糕", 
+    "goodsImg" : "/images/list34.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daecc09204afcfd3cfe80"), 
+    "goodsName" : "玫瑰雪域芝士蛋糕", 
+    "goodsImg" : "/images/list35.jpg", 
+    "goodsPrice" : 298.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daecc09204afcfd3cfe81"), 
+    "goodsName" : "粉色玫瑰森林蛋糕", 
+    "goodsImg" : "/images/list36.jpg", 
+    "goodsPrice" : 336.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daf7709204afcfd3cfe82"), 
+    "goodsName" : "雪域蓝莓芝士蛋糕", 
+    "goodsImg" : "/images/list37.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 56.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daf7709204afcfd3cfe83"), 
+    "goodsName" : "雪域大理石芝士蛋糕", 
+    "goodsImg" : "/images/list38.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daf7709204afcfd3cfe84"), 
+    "goodsName" : "猪光宝气蛋糕", 
+    "goodsImg" : "/images/list39.jpg", 
+    "goodsPrice" : 228.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3daf7709204afcfd3cfe85"), 
+    "goodsName" : "携手·环游世界蛋糕", 
+    "goodsImg" : "/images/list40.jpg", 
+    "goodsPrice" : 368.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dafea09204afcfd3cfe86"), 
+    "goodsName" : "红圆舞蛋糕", 
+    "goodsImg" : "/images/list41.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 34.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "慕斯口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dafea09204afcfd3cfe87"), 
+    "goodsName" : "实栗派核桃栗蓉蛋糕", 
+    "goodsImg" : "/images/list42.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dafea09204afcfd3cfe88"), 
+    "goodsName" : "巧克力四重奏蛋糕", 
+    "goodsImg" : "/images/list43.jpg", 
+    "goodsPrice" : 228.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3dafea09204afcfd3cfe89"), 
+    "goodsName" : "和风抹茶红豆蛋糕", 
+    "goodsImg" : "/images/list44.jpg", 
+    "goodsPrice" : 368.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "芒果季必吃人气蛋糕", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3db05409204afcfd3cfe8a"), 
+    "goodsName" : "莓果缤纷蛋糕", 
+    "goodsImg" : "/images/list45.jpg", 
+    "goodsPrice" : 218.0, 
+    "goodsNum" : 34.0, 
+    "goodsTitle" : "小王子的专属宠溺", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "水果口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3db05409204afcfd3cfe8b"), 
+    "goodsName" : "海盐乳酪芝士蛋糕", 
+    "goodsImg" : "/images/list46.jpg", 
+    "goodsPrice" : 258.0, 
+    "goodsNum" : 75.0, 
+    "goodsTitle" : "少女心爆棚 甜美公主必选", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3db05409204afcfd3cfe8c"), 
+    "goodsName" : "阿尔蒙麦香蛋糕", 
+    "goodsImg" : "/images/list47.jpg", 
+    "goodsPrice" : 228.0, 
+    "goodsNum" : 46.0, 
+    "goodsTitle" : "清新蓝莓与澳洲进口牛乳的奇妙", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "巧克力口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3db05409204afcfd3cfe8d"), 
+    "goodsName" : "阿尔蒙洛克蛋糕", 
+    "goodsImg" : "/images/list48.jpg", 
+    "goodsPrice" : 368.0, 
+    "goodsNum" : 50.0, 
+    "goodsTitle" : "低甜 孝敬长辈不踩雷", 
+    "goodsTag" : "", 
+    "goodsType" : "3", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "芝士口味", 
+    "goodsSweet" : "低"
+}
+{ 
+    "_id" : ObjectId("5d3eb7b1ef1b096f2c3dcd5e"), 
+    "goodsName" : "原味匠心吐司", 
+    "goodsImg" : "/images/list49.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 45.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "金牌吐司", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb7eeef1b096f2c3dcd5f"), 
+    "goodsName" : "巧克力吐司", 
+    "goodsImg" : "/images/list50.jpg", 
+    "goodsPrice" : 68.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "人气明星", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb82fef1b096f2c3dcd60"), 
+    "goodsName" : "橙香提子吐司", 
+    "goodsImg" : "/images/list51.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb83def1b096f2c3dcd61"), 
+    "goodsName" : "彩虹吐司", 
+    "goodsImg" : "/images/list52.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb8a0ef1b096f2c3dcd62"), 
+    "goodsName" : "栗子吐司", 
+    "goodsImg" : "/images/list53.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb8b0ef1b096f2c3dcd63"), 
+    "goodsName" : "莓粉吐司", 
+    "goodsImg" : "/images/list54.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb8c0ef1b096f2c3dcd64"), 
+    "goodsName" : "莓你不行吐司", 
+    "goodsImg" : "/images/list55.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}
+{ 
+    "_id" : ObjectId("5d3eb8ceef1b096f2c3dcd65"), 
+    "goodsName" : "随心周周配", 
+    "goodsImg" : "/images/list56.jpg", 
+    "goodsPrice" : 58.0, 
+    "goodsNum" : 49.0, 
+    "goodsTitle" : "", 
+    "goodsTag" : "", 
+    "goodsType" : "1", 
+    "goodsSkus" : [
+        "2-4人食", 
+        "5-8人食", 
+        "9-12人食", 
+        "15-20人食"
+    ], 
+    "goodsTaste" : "奶油口味", 
+    "goodsSweet" : "中"
+}

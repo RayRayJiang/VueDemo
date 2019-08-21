@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5d3a7e83fd2d9e297c86687e"), 
+    "userName" : "lili", 
+    "userPwd" : "123", 
+    "userTel" : "1234567", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d3a9f99861b352ec072745a"), 
+    "userName" : "rui", 
+    "userPwd" : "1234", 
+    "userTel" : "18872701887", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d3ab6e80ef9892df060ebb1"), 
+    "userName" : "yoyo", 
+    "userPwd" : "123", 
+    "userTel" : "18872701223", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d3ab9050ef9892df060ebb2"), 
+    "userName" : "haha", 
+    "userPwd" : "1234", 
+    "userTel" : "18872701878", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d3ab9950ef9892df060ebb3"), 
+    "userName" : "yuyu", 
+    "userPwd" : "1234", 
+    "userTel" : "18872701676", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d418730ab5b4b1c84483b8e"), 
+    "userName" : "yoyoyo", 
+    "userPwd" : "123", 
+    "userTel" : "18872765678", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d418e84ab5b4b1c84483b91"), 
+    "userName" : "q w er", 
+    "userPwd" : "123", 
+    "userTel" : "18874561235", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d42a93407ed4e1d28f85420"), 
+    "userName" : "ray", 
+    "userPwd" : "123", 
+    "userTel" : "18876768089", 
+    "__v" : NumberInt(0)
+}

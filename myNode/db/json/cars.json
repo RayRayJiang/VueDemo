@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("5d418750ab5b4b1c84483b8f"), 
+    "buyNum" : NumberInt(2), 
+    "userName" : "yoyoyo", 
+    "goodsName" : "草莓拿破仑蛋糕", 
+    "goodsId" : "5d3d228309204afcfd3cfe5d", 
+    "goodsPrice" : NumberInt(458), 
+    "goodsImg" : "/images/list4.jpg", 
+    "buySku" : "9-12人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d41875aab5b4b1c84483b90"), 
+    "buyNum" : NumberInt(4), 
+    "userName" : "yoyoyo", 
+    "goodsName" : "数字蛋糕", 
+    "goodsId" : "5d3d2dd909204afcfd3cfe5e", 
+    "goodsPrice" : NumberInt(298), 
+    "goodsImg" : "/images/list8.jpg", 
+    "buySku" : "5-8人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d424b1fadf8531a30eb453c"), 
+    "buyNum" : NumberInt(2), 
+    "userName" : "lili", 
+    "goodsName" : "数字蛋糕", 
+    "goodsId" : "5d3d2dd909204afcfd3cfe5e", 
+    "goodsPrice" : NumberInt(458), 
+    "goodsImg" : "/images/list8.jpg", 
+    "buySku" : "9-12人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d42631aadf8531a30eb453d"), 
+    "buyNum" : NumberInt(4), 
+    "userName" : "lili", 
+    "goodsName" : "闲蛋皇蛋糕", 
+    "goodsId" : "5d3d215809204afcfd3cfe5c", 
+    "goodsPrice" : NumberInt(298), 
+    "goodsImg" : "/images/list3.jpg", 
+    "buySku" : "5-8人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d426391adf8531a30eb453e"), 
+    "buyNum" : NumberInt(3), 
+    "userName" : "lili", 
+    "goodsName" : "草莓千层蛋糕", 
+    "goodsId" : "5d3d458709204afcfd3cfe61", 
+    "goodsPrice" : NumberInt(218), 
+    "goodsImg" : "/images/list6.jpg", 
+    "buySku" : "2-4人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d42827107ed4e1d28f8541f"), 
+    "buyNum" : NumberInt(3), 
+    "userName" : "lili", 
+    "goodsName" : "芋见伯爵蛋糕", 
+    "goodsId" : "5d3dac0f09204afcfd3cfe71", 
+    "goodsPrice" : NumberInt(218), 
+    "goodsImg" : "/images/list20.jpg", 
+    "buySku" : "2-4人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d42a95f07ed4e1d28f85421"), 
+    "buyNum" : NumberInt(5), 
+    "userName" : "ray", 
+    "goodsName" : "真爱“粉钻”蛋糕", 
+    "goodsId" : "5d3daecc09204afcfd3cfe7f", 
+    "goodsPrice" : NumberInt(458), 
+    "goodsImg" : "/images/list34.jpg", 
+    "buySku" : "9-12人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d42e08c6e88fa26249e29a0"), 
+    "buyNum" : NumberInt(6), 
+    "userName" : "ray", 
+    "goodsName" : "环游世界蛋糕", 
+    "goodsId" : "5d3d200909204afcfd3cfe5b", 
+    "goodsPrice" : NumberInt(458), 
+    "goodsImg" : "/images/list2.jpg", 
+    "buySku" : "9-12人食", 
+    "isChoose" : false, 
+    "__v" : NumberInt(0)
+}

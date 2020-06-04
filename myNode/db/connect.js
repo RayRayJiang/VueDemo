@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 //连接数据库
-mongoose.connect('mongodb://localhost/1905ray', { useNewUrlParser: true });
+mongoose.connect('mongodb://localhost/cake', { useNewUrlParser: true });
 
 // 获取连接对象
 const db = mongoose.connection;

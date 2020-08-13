@@ -1,22 +1,42 @@
+const baseUrl = process.env.VUE_APP_BASE_URL;
+const outputDir = process.env.outputDir;
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+console.log('baseUrl:', baseUrl);
+console.log('ENV:' + process.env.NODE_ENV);
+console.log('outputDir:', outputDir);
 module.exports = {
     // 配置html文件中href和src的路径抬头
     publicPath: process.env.NODE_ENV == 'development' ? '/' : '',
+    outputDir: outputDir,
+    assetsDir: 'static', // 打包后css/js/img文件位置
     devServer: {
-        // 配置反向代理
+        open: true,
+        // 配置代理
         proxy: {
-            '/api': {
-                /* 
-                如果你的原始请求是/api/goods/swiper
-                会自动转换成http://localhost:8888/api/goods/swiper
-                再把/api改成空
-                最后的结果就是http://localhost:8888/goods/swiper
-                */ 
-                target: 'http://localhost:8888',
+            [process.env.VUE_APP_BASE_API]: {
+                target: baseUrl,
                 changeOrigin: true,
                 pathRewrite: {
-                    '^/api': ''
+                    ['^' + process.env.VUE_APP_BASE_API]: ''
                 }
-            }            
+            }
+        }
+    },
+    configureWebpack: {
+        optimization: {
+            minimizer: [
+                // 打包时，移除console.log()信息
+                new UglifyJsPlugin({
+                    uglifyOptions: {
+                        warnings: false,
+                        compress: {
+                            drop_console: true, // 注释console
+                            drop_debugger: true,
+                            pure_funcs: ['console.log'] //移除console
+                        }
+                    }
+                })
+            ]
         }
     }
 }

@@ -12,7 +12,7 @@ Vue.use(MintUI)
 Vue.config.productionTip = false
 
 // 根据不同的环境,配置不同的请求域
-const commonUrl = process.env.NODE_ENV == 'development' ? 'http://172.20.10.8:8888' : 'http://47.98.251.7:8888'
+const commonUrl = process.env.NODE_ENV == 'development' ? 'http://localhost:8888' : 'http://47.98.251.7:8888'
 // 把请求域添加Vue,然后每个组件都可以直接获取它
 Vue.prototype.$commonUrl = commonUrl
 

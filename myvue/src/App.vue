@@ -125,6 +125,7 @@ export default {
     // 把token存到本地和仓库store
     const token = localStorage.getItem('token');
     this.$store.state.token = token;
+    console.log(token);
   },
   // 第一次进入的路由也要判断是否显示上下导航栏
   mounted() {
